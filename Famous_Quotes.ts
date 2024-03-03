@@ -1,1 +1,0 @@
-console.log('Muhammad Ali once said,“Service to others is the rent you pay for the room you have here on Earth.”');
